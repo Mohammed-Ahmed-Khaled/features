@@ -1,16 +1,9 @@
-# features
+# Google Maps App
 
-A new Flutter project.
+A Flutter application that integrates Google Maps and places a red marker on Cairo Government in Egypt.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Google Map Integration**: Displays a Google Map on the screen.
+- **Marker on Cairo, Egypt**: A red marker is placed at the coordinates of Cairo Government.
+- **Modular Code Structure**: Each widget is in a separate file for clarity and reusability.
